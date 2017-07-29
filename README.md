@@ -1,10 +1,10 @@
 # Italodownloader
 
 This tool let you download music / movies from italo train.
-The server of Italo are accessibile only if you are aboard the train
+The Italo's server is accessibile only if you are aboard the train
 and you are connected to the `.italo` WiFi.
 
-From now it downloads only music from a presetted
+Right now it downloads only music from a presetted
 category. You can change the category inside the code.
 
 ## Roadmap
